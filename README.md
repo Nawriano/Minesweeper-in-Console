@@ -4,4 +4,5 @@ then number of mines on field
 
 controls: 
 arrows to move selected field
+and
 space for interaction
